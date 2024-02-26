@@ -25,50 +25,50 @@ Dify.AI is a user-friendly platform designed as an Open-Source Assistant API and
 | Platforme  | LangChain | FlowiseAI | LangFlow | Dify |
 | ------------- | ------------- |------------- |------------- |------------- |
 | Programming Approach  | Python Code-oriented  |  API-oriented | API-oriented | API-oriented |
-| Pricing  | Open Source  |  Open-source | Open-source | Open-source |
+| Pricing  | Open-source  |  Open-source | Open-source | Open-source |
 | Local Deployment  | Not Applicable  | Supported | Supported| Supported |
 
 
 
 
 # Flowise AI vs LangFlow
----------------------------------
+
 Flowise and LangFlow are both powerful tools for building AI applications using a drag-and-drop interface, but they have some key differences. Here's a breakdown to help you decide which might be best for you:
 
 # Strengths of Flowise
------------------------------
+
 Easier to learn and use: Flowise has a simpler interface and more pre-built templates, making it quicker to get started, especially for beginners.
 Stronger deployment options: Flowise offers built-in deployment options for platforms like Docker and Railway, making it easier to get your application online.
 Predefined agents for complex tasks: Flowise offers pre-built agents for tasks like conversation flows and API integration, which can save you time and effort.
 
 # Weaknesses of Flowise
------------------------------
+
 Less customization: Flowise offers less flexibility and customization compared to LangFlow.
 Currently local-only: Flowise applications can't be deployed remotely in the cloud yet.
 Fewer advanced features: Flowise lacks some advanced features found in LangFlow, such as code integration and custom embedding options.
 
 
 # Strengths of LangFlow
------------------------------
+
 More powerful and flexible: LangFlow offers greater customization and flexibility, allowing you to build more complex and sophisticated applications.
 Advanced features: LangFlow has features like code integration, custom embedding options, and a wider range of memory options.
 Cloud-based: LangFlow applications can be deployed in the cloud for easy access and collaboration.
 
 # Weaknesses of LangFlow
------------------------------
+
 Steeper learning curve: LangFlow's interface can be more complex to learn and use than Flowise, especially for beginners.
 No built-in deployment options: You need to set up your own deployment for LangFlow applications.
 Fewer pre-built templates: LangFlow relies more on creating your own flows from scratch, which can be time-consuming.
 Ultimately, the best choice for you depends on your needs and experience:
 
 # Choose Flowise if:
--------------------------
+
 You're new to building AI applications.
 You need to get your application up and running quickly.
 You need an easy-to-use platform with pre-built templates.
 
 # Choose LangFlow if:
-----------------------------
+
 You need a more powerful and flexible platform.
 You're comfortable with code and advanced features.
 You need to deploy your application in the cloud.
