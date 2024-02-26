@@ -23,10 +23,10 @@ Dify.AI is a user-friendly platform designed as an Open-Source Assistant API and
 # Let's compare the platforms
 
 | Platforme  | LangChain | FlowiseAI | LangFlow | Dify |
-| ------------- | ------------- |------------- |------------- |
+| ------------- | ------------- |------------- |------------- |------------- |
 | Programming Approach  | Python Code-oriented  |  API-oriented | API-oriented | API-oriented |
 | Pricing  | Open Source  |  Open-source | Open-source | Open-source |
-| Local Deployment  | Not Applicable  | Supported | Supported| Supported|
+| Local Deployment  | Not Applicable  | Supported | Supported| Supported |
 
 
 
