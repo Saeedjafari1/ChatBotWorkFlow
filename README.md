@@ -46,20 +46,26 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 # Weaknesses of Flowise
 
 1- Less customization: Flowise offers less flexibility and customization compared to LangFlow.
+
 2- Currently local-only: Flowise applications can't be deployed remotely in the cloud yet.
+
 3- Fewer advanced features: Flowise lacks some advanced features found in LangFlow, such as code integration and custom embedding options.
 
 
 # Strengths of LangFlow
 
 1- More powerful and flexible: LangFlow offers greater customization and flexibility, allowing you to build more complex and sophisticated applications.
+
 2- Advanced features: LangFlow has features like code integration, custom embedding options, and a wider range of memory options.
+
 3- Cloud-based: LangFlow applications can be deployed in the cloud for easy access and collaboration.
 
 # Weaknesses of LangFlow
 
 1- Steeper learning curve: LangFlow's interface can be more complex to learn and use than Flowise, especially for beginners.
+
 2- No built-in deployment options: You need to set up your own deployment for LangFlow applications.
+
 3- Fewer pre-built templates: LangFlow relies more on creating your own flows from scratch, which can be time-consuming.
 
 # Ultimately, the best choice for you depends on your needs and experience:
