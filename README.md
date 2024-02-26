@@ -20,16 +20,6 @@ The process of using LangFlow is quite straightforward. You can create a pipelin
 
 Dify.AI is a user-friendly platform designed as an Open-Source Assistant API and an alternative to GPTs. As a platform for developing applications for Large Language Models (LLMs), it integrates Backend as a Service and LLMOps concepts. This platform covers the core technology stack required to build generative AI-native applications and includes a built-in RAG engine. The platform provides access to various LLMs such as Anthropic, OpenAI, Llama 2, and more.
 
-# Let's compare the platforms
-
-| Platforme  | LangChain | FlowiseAI | LangFlow | Dify |
-| ------------- | ------------- |------------- |------------- |------------- |
-| Programming Approach  | Python Code-oriented  |  API-oriented | API-oriented | API-oriented |
-| Pricing  | Open-source  |  Open-source | Open-source | Open-source |
-| Local Deployment  | Not Applicable  | Supported | Supported| Supported |
-
-
-
 
 # Flowise AI vs LangFlow
 
@@ -81,5 +71,15 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 - You need a more powerful and flexible platform.
 - You're comfortable with code and advanced features.
 - You need to deploy your application in the cloud.
+
+- # Let's compare all platforms
+
+| Platforme  | FlowiseAI | LangFlow | Dify |
+| ------------- |------------- |------------- |------------- |
+| Programming Approach  |  API-oriented | API-oriented | API-oriented |
+| Ecosystem Strategy  |   Open-source | Open-source | Open-source |
+| Pricing  | Free  |  Free | Start with a free plan |
+| Local Deployment  |  Supported | Supported| Supported |
+| Cloud-based  |  Not yet | Supported| Supported |
 
 
