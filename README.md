@@ -38,7 +38,9 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 # Strengths of Flowise
 
 1- Easier to learn and use: Flowise has a simpler interface and more pre-built templates, making it quicker to get started, especially for beginners.
+
 2- Stronger deployment options: Flowise offers built-in deployment options for platforms like Docker and Railway, making it easier to get your application online.
+
 3- Predefined agents for complex tasks: Flowise offers pre-built agents for tasks like conversation flows and API integration, which can save you time and effort.
 
 # Weaknesses of Flowise
