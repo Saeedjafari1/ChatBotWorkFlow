@@ -74,15 +74,15 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 
 - # Let's compare all platforms
 
-| Platforme  | FlowiseAI | LangFlow | Dify |
-| ------------- |------------- |------------- |------------- |
-| Programming Approach  |  API-oriented | API-oriented | API-oriented |
-| Ecosystem Strategy  |   Open-source | Open-source | Open-source |
-| Pricing  | Free  |  Free | Start with a free plan |
-| Local Deployment  |  Supported | Supported| Supported |
-| Cloud-based  |  Not yet | Supported| Supported |
-| flexiblity  | Less Flexible than LangFlow  | More Flexible than FlowiseAI | Lower than FlowiseAI |
-| simplicity  | More than LangFlow  | Less than FlowiseAI | Lower than LangFlow |
+| Platforme  | FlowiseAI | LangFlow | Dify | Botpress |
+| ------------- |------------- |------------- |------------- |------------- |
+| Programming Approach  |  API-oriented | API-oriented | API-oriented |API-oriented |
+| Ecosystem Strategy  |   Open-source | Open-source | Open-source | Open-source |
+| Pricing  | Free  |  Free | Start with a free plan |  Free |
+| Local Deployment  |  Supported | Supported| Supported | Supported |
+| Cloud-based  |  Not yet | Supported| Supported | Supported |
+| flexiblity  | Less Flexible than LangFlow  | More Flexible than FlowiseAI | Lower than FlowiseAI | Like LangFlow |
+| simplicity  | More than LangFlow  | Less than FlowiseAI | Lower than LangFlow | Like LangFlow |
 
 
 
