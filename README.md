@@ -81,5 +81,8 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 | Pricing  | Free  |  Free | Start with a free plan |
 | Local Deployment  |  Supported | Supported| Supported |
 | Cloud-based  |  Not yet | Supported| Supported |
+| flexiblity  | Less Flexible than LangFlow  | More Flexible than FlowiseAI | Lower than FlowiseAI |
+| simplicity  | More than LangFlow  | Less than FlowiseAI | Lower than LangFlow |
+
 
 
