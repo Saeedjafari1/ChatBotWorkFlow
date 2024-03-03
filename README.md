@@ -85,4 +85,7 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 | simplicity  | More than LangFlow  | Less than FlowiseAI | Lower than LangFlow | Like LangFlow |
 
 
+# Possible Error in Flowise AI:
+
+
 
