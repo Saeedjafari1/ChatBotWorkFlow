@@ -87,7 +87,11 @@ Flowise and LangFlow are both powerful tools for building AI applications using 
 
 # Possible Error in Flowise AI:
 
-When using the Flowise AI, ""flowise"  PDFDocument: stream must have data" may be seen. However, it can be solved by adding this line of code in the ..\flowiseAI\Flowise\docker\.env file:
+When using the Flowise AI, 
+
+> ""flowise"  PDFDocument: stream must have data"
+
+may be seen. However, it can be solved by adding this line of code in the ..\flowiseAI\Flowise\docker\.env file:
 
 ```
 FLOWISE_FILE_SIZE_LIMIT=50mb
